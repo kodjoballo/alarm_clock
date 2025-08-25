@@ -25,19 +25,19 @@ pip install playsound
 
 python -m pip install playsound
 pip install --upgrade setuptools wheel
+
 ```
 
 ### 2. Add an Alarm Sound
 
 Place an audio file named alarm.mp3 in the project directory.
 Example:
+
 ```js
 alarm_clock/
 │
 ├── alarm_clock.py
 └── alarm.mp3
-
-
 ```
 
 ### 3. Run the Program
@@ -45,7 +45,7 @@ alarm_clock/
 From the project folder:
 ```js
 python.exe alarm_clock.py
-```js
+```
 
 or from any python interpreter
 
